@@ -64,11 +64,11 @@ Part 3 (Post Installation Setup)
 
 - Configure Help Topics
 
-Admin Panel -> Manage -> Help Topics
-Business Critical Outage
-Personal Computer Issues
-Equipment Request
-Password Reset
+  1. Admin Panel -> Manage -> Help Topics
+     a. Business Critical Outage
+     b. Personal Computer Issues
+     c. Equipment Request
+     d. Password Reset
 
 
 <h2>Configuration Steps</h2>
