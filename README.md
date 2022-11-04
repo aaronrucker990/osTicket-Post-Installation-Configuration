@@ -27,20 +27,25 @@ Part 3 (Post Installation Setup)
  - Configure Roles
    a. Admin Panel -> Agents -> Roles
    b. Supreme Admin
+   
 - Configure Departments
    a. Admin Panel -> Agents -> Departments
    b. System Administrators
+   
 - Configure Teams
    a. Admin Panel -> Agents -> Teams
      i.  Level I Support
      ii. Level II Support
+     
 - Allow anyone to create tickets
    a. Admin Panel -> Settings -> User Settings
-   b. Registration Required: Require registration and login to create tickets 
+   b. Registration Required: Require registration and login to create tickets
+   
 - Configure Agents (workers)
    a. Admin Panel -> Agents -> Add New
      i.  Jane
      ii. John
+     
 - Configure Users (customers)
 Agent Panel -> Users -> Add New
 Karen
