@@ -37,14 +37,17 @@ Part 3 (Post Installation Setup)
 - Configure Teams
 
    1. Admin Panel -> Agents -> Teams
+ 
      a. Level I Support
      b. Level II Support
      
 - Allow anyone to create tickets
+
    1. Admin Panel -> Settings -> User Settings
    2. Registration Required: Require registration and login to create tickets
    
 - Configure Agents (workers)
+
    1. Admin Panel -> Agents -> Add New
      a. Jane
      b. John
@@ -57,14 +60,15 @@ Part 3 (Post Installation Setup)
       
 - Configure SLA
 
-  1. Admin Panel -> Manage -> SLA
-       Sev-A (1 hour, 24/7)
-       Sev-B (4 hours, 24/7)
-       Sev-C (8 hours, business hours)
+    1. Admin Panel -> Manage -> SLA
+          Sev-A (1 hour, 24/7)
+          Sev-B (4 hours, 24/7)
+          Sev-C (8 hours, business hours)
 
 - Configure Help Topics
 
   1. Admin Panel -> Manage -> Help Topics
+
      a. Business Critical Outage
      b. Personal Computer Issues
      c. Equipment Request
