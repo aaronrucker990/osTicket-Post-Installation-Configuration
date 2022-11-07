@@ -60,7 +60,7 @@ Part 1 (Post Installation Setup)
      
 - Configure Users (customers)
 
-   1. Agent Panel -> Users -> Add New
+  1. Agent Panel -> Users -> Add New
   
       a. Karen
       
