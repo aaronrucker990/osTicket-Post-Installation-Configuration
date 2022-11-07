@@ -61,6 +61,7 @@ Part 1 (Post Installation Setup)
 - Configure SLA
 
     1. Admin Panel -> Manage -> SLA
+    
           Sev-A (1 hour, 24/7)
           Sev-B (4 hours, 24/7)
           Sev-C (8 hours, business hours)
