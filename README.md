@@ -27,11 +27,13 @@ Part 1 (Post Installation Setup)
  - Configure Roles
 
    1. Admin Panel -> Agents -> Roles
+ 
    2. Supreme Admin
    
 - Configure Departments
 
    1. Admin Panel -> Agents -> Departments
+  
    2. System Administrators
    
 - Configure Teams
@@ -39,23 +41,29 @@ Part 1 (Post Installation Setup)
    1. Admin Panel -> Agents -> Teams
  
      a. Level I Support
+     
      b. Level II Support
      
 - Allow anyone to create tickets
 
    1. Admin Panel -> Settings -> User Settings
+  
    2. Registration Required: Require registration and login to create tickets
    
 - Configure Agents (workers)
 
    1. Admin Panel -> Agents -> Add New
+  
      a. Jane
+     
      b. John
      
 - Configure Users (customers)
 
    1. Agent Panel -> Users -> Add New
+  
       a. Karen
+      
       b. Ken
       
 - Configure SLA
@@ -73,8 +81,11 @@ Part 1 (Post Installation Setup)
   1. Admin Panel -> Manage -> Help Topics
 
      a. Business Critical Outage
+     
      b. Personal Computer Issues
+     
      c. Equipment Request
+     
      d. Password Reset
 
 
