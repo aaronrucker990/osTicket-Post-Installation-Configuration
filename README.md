@@ -104,7 +104,13 @@ Part 6
 <img src="https://i.imgur.com/NXzTqyx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+- Configure Roles
+
+   1. Admin Panel -> Agents -> Roles
+ 
+   2. Supreme Admin
+
 </p>
 <br />
 
@@ -114,7 +120,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/Lpvrikw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+- Configure Departments
+
+   1. Admin Panel -> Agents -> Departments
+  
+   2. System Administrators
+
 </p>
 <br />
 
@@ -128,7 +140,21 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
  
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+- Configure Teams
+
+   1. Admin Panel -> Agents -> Teams
+ 
+     a. Level I Support
+     
+     b. Level II Support   
+     
+- Allow anyone to create tickets
+
+   1. Admin Panel -> Settings -> User Settings
+  
+   2. Registration Required: Require registration and login to create tickets
+
 </p>
 <br />
 
@@ -142,7 +168,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
  
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+- Configure Agents (workers)
+
+   1. Admin Panel -> Agents -> Add New
+  
+     a. Jane
+     
+     b. John
 </p>
 <br />
 
@@ -155,7 +188,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
  
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+- Configure Users (customers)
+
+  1. Agent Panel -> Users -> Add New
+  
+      a. Karen
+      
+      b. Ken
+
 </p>
 <br />
 
@@ -165,7 +206,17 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/yuwnr5G.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+- Configure SLA
+
+    1. Admin Panel -> Manage -> SLA
+    
+          Sev-A (1 hour, 24/7)
+          
+          Sev-B (4 hours, 24/7)
+          
+          Sev-C (8 hours, business hours)
+
 </p>
 <br />
 
@@ -175,7 +226,19 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/spQNqd7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+- Configure Help Topics
+
+  1. Admin Panel -> Manage -> Help Topics
+
+     a. Business Critical Outage
+     
+     b. Personal Computer Issues
+     
+     c. Equipment Request
+     
+     d. Password Reset
+
 </p>
 <br />
 
