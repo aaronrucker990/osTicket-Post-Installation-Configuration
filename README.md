@@ -98,7 +98,7 @@ Part 6
 
 <h2>Configuration Steps</h2>
 
-<h2>Summary of Steps 1</h2>
+<h2>Step 1</h2>
 
 - Configure Roles
 
@@ -115,7 +115,7 @@ Part 6
 </p>
 <br />
 
-<h2>Summary of Steps 2</h2>
+<h2>Step 2</h2>
 
 - Configure Departments
 
@@ -133,7 +133,7 @@ Part 6
 </p>
 <br />
 
-<h2>Summary of Steps 3</h2>
+<h2>Step 3</h2>
 
 - Configure Teams
 
@@ -161,7 +161,7 @@ Part 6
 </p>
 <br />
 
-<h2>Summary of Steps 4</h2>
+<h2>Step 4</h2>
 
 - Configure Agents (workers)
 
@@ -185,7 +185,7 @@ Part 6
 </p>
 <br />
 
-<h2>Summary of Steps 5</h2>
+<h2>Step 5</h2>
 
 - Configure Users (customers)
 
@@ -209,7 +209,7 @@ Part 6
 </p>
 <br />
 
-<h2>Summary of Steps 6</h2>
+<h2>Step 6</h2>
 
 - Configure SLA
 
@@ -231,7 +231,7 @@ Part 6
 </p>
 <br />
 
-<h2>Summary of Steps 7</h2>
+<h2>Step 7</h2>
 
 - Configure Help Topics
 
