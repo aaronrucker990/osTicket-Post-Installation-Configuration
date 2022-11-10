@@ -25,11 +25,15 @@ Part 1 (Post Installation Setup)
  
    2. Supreme Admin
    
+Part 2
+   
 - Configure Departments
 
    1. Admin Panel -> Agents -> Departments
   
    2. System Administrators
+   
+Part 3
    
 - Configure Teams
 
@@ -39,11 +43,15 @@ Part 1 (Post Installation Setup)
      
      b. Level II Support
      
+Part 4     
+     
 - Allow anyone to create tickets
 
    1. Admin Panel -> Settings -> User Settings
   
    2. Registration Required: Require registration and login to create tickets
+   
+Part 5     
    
 - Configure Agents (workers)
 
@@ -53,6 +61,8 @@ Part 1 (Post Installation Setup)
      
      b. John
      
+Part 6    
+     
 - Configure Users (customers)
 
   1. Agent Panel -> Users -> Add New
@@ -60,6 +70,8 @@ Part 1 (Post Installation Setup)
       a. Karen
       
       b. Ken
+      
+Part 7     
       
 - Configure SLA
 
@@ -70,6 +82,8 @@ Part 1 (Post Installation Setup)
           Sev-B (4 hours, 24/7)
           
           Sev-C (8 hours, business hours)
+          
+ Part 8
 
 - Configure Help Topics
 
@@ -133,6 +147,48 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
+
+<h2>Summary of Steps 1</h2>
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<h2>Summary of Steps 2</h2>
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<h2>Summary of Steps 3</h2>
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<h2>Summary of Steps 4</h2>
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+
 
 
 
