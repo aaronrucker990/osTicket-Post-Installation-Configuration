@@ -100,26 +100,22 @@ Part 6
 
 <h2>Summary of Steps 1</h2>
 
-<p>
-<img src="https://i.imgur.com/NXzTqyx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-
 - Configure Roles
 
    1. Admin Panel -> Agents -> Roles
  
    2. Supreme Admin
 
+<p>
+<img src="https://i.imgur.com/NXzTqyx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+
 </p>
 <br />
 
 <h2>Summary of Steps 2</h2>
-
-<p>
-<img src="https://i.imgur.com/Lpvrikw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
 
 - Configure Departments
 
@@ -127,10 +123,31 @@ Part 6
   
    2. System Administrators
 
+<p>
+<img src="https://i.imgur.com/Lpvrikw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+
+
 </p>
 <br />
 
 <h2>Summary of Steps 3</h2>
+
+- Configure Teams
+
+   1. Admin Panel -> Agents -> Teams
+ 
+     a. Level I Support
+     
+     b. Level II Support  
+     
+- Allow anyone to create tickets
+
+   1. Admin Panel -> Settings -> User Settings
+  
+   2. Registration Required: Require registration and login to create tickets
 
 <p>
 <img src="https://i.imgur.com/vj2JHC9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -141,24 +158,19 @@ Part 6
 </p>
 <p>
 
-- Configure Teams
-
-   1. Admin Panel -> Agents -> Teams
- 
-     a. Level I Support
-     
-     b. Level II Support   
-     
-- Allow anyone to create tickets
-
-   1. Admin Panel -> Settings -> User Settings
-  
-   2. Registration Required: Require registration and login to create tickets
-
 </p>
 <br />
 
 <h2>Summary of Steps 4</h2>
+
+- Configure Agents (workers)
+
+   1. Admin Panel -> Agents -> Add New
+  
+     a. Jane
+     
+     b. John
+
 
 <p>
 <img src="https://i.imgur.com/CGajDNl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -169,25 +181,11 @@ Part 6
 </p>
 <p>
 
-- Configure Agents (workers)
 
-   1. Admin Panel -> Agents -> Add New
-  
-     a. Jane
-     
-     b. John
 </p>
 <br />
 
 <h2>Summary of Steps 5</h2>
-
-<p>
-<img src="https://i.imgur.com/yk03ykC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
- 
-<img src="https://i.imgur.com/grpTPZ8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
- 
-</p>
-<p>
 
 - Configure Users (customers)
 
@@ -197,15 +195,21 @@ Part 6
       
       b. Ken
 
+
+<p>
+<img src="https://i.imgur.com/yk03ykC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ 
+<img src="https://i.imgur.com/grpTPZ8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+ 
+</p>
+<p>
+
+
+
 </p>
 <br />
 
 <h2>Summary of Steps 6</h2>
-
-<p>
-<img src="https://i.imgur.com/yuwnr5G.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
 
 - Configure SLA
 
@@ -217,15 +221,17 @@ Part 6
           
           Sev-C (8 hours, business hours)
 
+<p>
+<img src="https://i.imgur.com/yuwnr5G.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+
+
 </p>
 <br />
 
 <h2>Summary of Steps 7</h2>
-
-<p>
-<img src="https://i.imgur.com/spQNqd7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
 
 - Configure Help Topics
 
@@ -238,6 +244,14 @@ Part 6
      c. Equipment Request
      
      d. Password Reset
+
+
+<p>
+<img src="https://i.imgur.com/spQNqd7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+
 
 </p>
 <br />
