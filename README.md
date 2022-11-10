@@ -41,9 +41,7 @@ Part 3
  
      a. Level I Support
      
-     b. Level II Support
-     
-Part 4     
+     b. Level II Support   
      
 - Allow anyone to create tickets
 
@@ -51,7 +49,7 @@ Part 4
   
    2. Registration Required: Require registration and login to create tickets
    
-Part 5     
+Part 4   
    
 - Configure Agents (workers)
 
@@ -61,7 +59,7 @@ Part 5
      
      b. John
      
-Part 6    
+Part 5 
      
 - Configure Users (customers)
 
@@ -71,7 +69,7 @@ Part 6
       
       b. Ken
       
-Part 7     
+Part 6
       
 - Configure SLA
 
@@ -83,7 +81,7 @@ Part 7
           
           Sev-C (8 hours, business hours)
           
- Part 8
+ Part 7
 
 - Configure Help Topics
 
